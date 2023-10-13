@@ -20,16 +20,14 @@ This program enables the user to:
 
 ## Setup
 
-![Setup Image]([https://cdn.discordapp.com/attachments/442574704126066690/1162140239897317386/IMG_1766.jpg?ex=653ada70&is=65286570&hm=00aa40ce8b2f66bd287c6b56b434b2e83944fe427babb33700d7972c491a0bd1&](https://cdn.discordapp.com/attachments/442574704126066690/1162212948169736202/IMG_2057.jpg?ex=653b1e27&is=6528a927&hm=5fb0ed1b28c97777d48e1fbd3d78f5927c5a74bbbc5afa233cf0a4a6a4d19acf&))
+![Setup Image](https://cdn.discordapp.com/attachments/442574704126066690/1162212948169736202/IMG_2057.jpg?ex=653b1e27&is=6528a927&hm=5fb0ed1b28c97777d48e1fbd3d78f5927c5a74bbbc5afa233cf0a4a6a4d19acf&)
 
 - ATMEGA microcontroller.
 - 16-key keypad input device.
 - LCD screen output device.
 - Analog input for voltage measurement.
 
-## How to Use
-
-
+## Usage
 
 1. Clone this repository to your local machine.
 

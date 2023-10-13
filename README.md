@@ -7,8 +7,6 @@ Welcome to the ATMEGA Volt-Meter repository! This C program implements a simple 
 - [Overview](#Overview)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
